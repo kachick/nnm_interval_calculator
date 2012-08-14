@@ -1,0 +1,33 @@
+= nnm_interval_calculator
+
+code :: https://github.com/kachick/nnm_interval_calculator
+bugs :: https://github.com/kachick/nnm_interval_calculator/issues
+
+== Description
+
+NNM(~7.n)のステータスポーリングは独特な動きをするので、これを手軽に取り扱いたいなという小物です。
+
+== Feutures
+
+* NNMのステータスポーリング設定値から、それを利用した際の動作を表示する
+* ポーリング間隔と検知条件を指定すると、条件を満たせる範囲で他の値を探して提示する
+
+== Usage
+
+対話形式で情報を集めながら、結果を表示します。
+
+    > nnm_interval_calculator
+
+== Requirements
+
+* Ruby 1.9.3 or later
+* io-nosey - 0.1.1
+* time-unit - 0.0.7
+
+== License
+
+GPL 3.0
+
+Copyright (c) 2011 Kenichi Kamiya
+
+See the file COPYING for further details.

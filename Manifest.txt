@@ -1,0 +1,8 @@
+README.rdoc
+COPYING
+Manifest.txt
+Rakefile
+History.txt
+lib/nnm_interval_calculator.rb
+lib/networknodemanager/xnmsnmpconf.rb
+bin/nnm_interval_calculator
