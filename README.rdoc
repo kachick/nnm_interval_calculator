@@ -1,13 +1,13 @@
 = nnm_interval_calculator
 
-code :: https://github.com/kachick/nnm_interval_calculator
-bugs :: https://github.com/kachick/nnm_interval_calculator/issues
+* <em><b>This repository is archived</b></em>
+* <em><b>No longer maintained</b></em>
 
 == Description
 
 NNM(~7.n)のステータスポーリングは独特な動きをするので、これを手軽に取り扱いたいなという小物です。
 
-== Feutures
+== Features
 
 * NNMのステータスポーリング設定値から、それを利用した際の動作を表示する
 * ポーリング間隔と検知条件を指定すると、条件を満たせる範囲で他の値を探して提示する
